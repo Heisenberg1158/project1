@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const NavBar = ({ isHome }) => {
-  const gitRepoLink = 'https://github.com/Heisenberg1158/movie_project.git';
+  const gitRepoLink = 'https://github.com/Heisenberg1158/project1.git';
 
   return (
     <div className="container header">
